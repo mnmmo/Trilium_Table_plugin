@@ -1,5 +1,6 @@
 # Trilium-Table-Count-and-Sum
 Trilium表格计数与求和插件
+
 使用方法：
 
 1.导入到Trilium（取消选择安全导入）。
