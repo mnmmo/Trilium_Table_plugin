@@ -2,7 +2,7 @@
 
 [English](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README.md)  |  [简体中文](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README_CN.md)
 
-此插件适用于 trilium v0.102.2版本，其他版本未测试。
+此插件适用于 [Trilium v0.102.2](https://github.com/TriliumNext/Trilium/releases/tag/v0.102.2)版本，其他版本未测试。
 
 ## 使用方法
 
