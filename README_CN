@@ -1,3 +1,5 @@
+[English](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README.md)|[Chinese](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README-CN)
+
 此插件适用于 trilium v0.102.2版本，其他版本未测试。
 
 ## 使用方法
@@ -6,6 +8,8 @@
 2.  导入到Trilium（取消选择安全导入）。
 
 其中包含两个功能插件，Table Count and Sum与Table Insert/Delete Shortcut Keys
+
+---
 
 ## Table Count and Sum
 
@@ -30,6 +34,8 @@
 2.  按下shift按键，鼠标点击待计算区域的最后一个单元格，松开shift按键。
 3.  右下角显示计数与求和弹窗。
 4.  进行任何取消选中单元格的操作，弹窗消失。
+
+---
 
 ## Table Insert/Delete Shortcut Keys
 
