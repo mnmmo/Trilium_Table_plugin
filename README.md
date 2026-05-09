@@ -9,6 +9,8 @@ This plugin is compatible with Trilium v0.102.2; other versions have not been te
 1.  Download the import package from Releases.
 2.  Import it into Trilium (uncheck the "Safe Import" option).
 
+It includes two functional plugins: ****Table Count and Sum**** and ****Table Insert/Delete Shortcut Keys****.
+
 ---
 
 ## Table Count and Sum
