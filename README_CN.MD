@@ -9,7 +9,7 @@
 1.  从Release下载导入包。
 2.  导入到Trilium（取消选择安全导入）。
 
-其中包含两个功能插件，Table Count and Sum与Table Insert/Delete Shortcut Keys
+其中包含两个功能插件，****Table Count and Sum****与****Table Insert/Delete Shortcut Keys****。
 
 ---
 
