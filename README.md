@@ -1,3 +1,5 @@
+Chinese<https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README-CN>
+
 This plugin is compatible with Trilium v0.102.2; other versions have not been tested.
 
 ## Usage
