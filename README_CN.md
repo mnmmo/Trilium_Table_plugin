@@ -1,6 +1,6 @@
 <p align="center">
 
-[English](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README.md)  |  [简体中文](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README_CN.md)
+[English](https://github.com/mnmmo/Trilium_Table_plugin/blob/main/README.md)  |  [简体中文](https://github.com/mnmmo/Trilium_Table_plugin/blob/main/README_CN.md)
 
 此插件适用于 trilium v0.103.0版本，其他版本未测试。
 
