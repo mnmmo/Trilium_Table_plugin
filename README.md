@@ -2,7 +2,7 @@
 
 [English](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README.md)  |  [简体中文](https://github.com/mnmmo/Trilium-Table-Plugin/blob/main/README_CN.md)
 
-This plugin is compatible with Trilium v0.102.2; other versions have not been tested.
+This plugin is compatible with Trilium v0.103.0; other versions have not been tested.
 
 ## Usage
 
